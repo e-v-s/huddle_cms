@@ -4,6 +4,8 @@
     {"type":"table","name":"sections","database":"huddle","data":
     [
     {"title":"Build The Community Your Fans Will Love","text":"Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion. "},
+    {"number": "1.4k+", "text": "Communities Formed"},
+    {"number": "2.7m+", "text": "Messages Sent"},
     {"title":"Grow Together","text":"Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form. "},
     {"title":"Flowing Conversations","text":"You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow."},
     {"title":"Your Users","text":"It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately."}
